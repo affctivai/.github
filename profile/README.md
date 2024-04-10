@@ -16,7 +16,7 @@ AFFCTIV actively engages in numerous creative projects, consistently producing h
 
 AFFCTIV's motto, or lab values, is "Pokemon." We utilize this motto to encapsulate our core values and what we prioritize.
 
-Pride: We take pride in our accomplishments and the methods by which we achieve them.
+- **P**ride. We take pride in our accomplishments and the methods by which we achieve them.
 Objectivity: We uphold scientific rigor, clarity, and reproducibility without taking shortcuts.
 Knowledge: We continually expand our knowledge and skills, transcending the boundaries of our existing expertise.
 Equality: We recognize the equal value of every individual.
