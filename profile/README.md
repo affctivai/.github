@@ -1,4 +1,4 @@
-## Affective Artificial Intelligence (AFFCTIV) Lab
+## Affective Artificial Intelligence (AFFCTIV) Lab, Inha University
 
 <!--
 
